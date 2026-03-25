@@ -40,6 +40,12 @@ const tools = [
     icon: Mail,
     description: "Tailored cover letters",
   },
+  {
+    href: "/ai-studio",
+    label: "AI Studio",
+    icon: Brain,
+    description: "Create images & videos with AI",
+  }
 ];
 
 export default function Header() {
